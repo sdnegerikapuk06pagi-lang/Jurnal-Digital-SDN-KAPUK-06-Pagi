@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix DIGITAL SDN Kapuk 06 Pagi FIX",
+  "description": "Sistem Informasi Sekolah - Portal Jurnal 7 KAIH, Jurnal Membaca, dan Manajemen Akademik (Murid, Guru, Admin/Kepala Sekolah)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
